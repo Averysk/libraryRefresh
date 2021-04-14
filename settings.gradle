@@ -1,0 +1,3 @@
+include ':libraryRefresh'
+include ':app'
+rootProject.name = "Demo003"
